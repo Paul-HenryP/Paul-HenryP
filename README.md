@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Paul-HenryP&color=green)
+![](https://komarev.com/ghpvc/?username=Paul-HenryP&color=greenstyle=for-the-badge)
 
 <!--
 **Paul-HenryP/Paul-HenryP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
