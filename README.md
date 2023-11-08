@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋
 
 ![](https://komarev.com/ghpvc/?username=Paul-HenryP&color=green&style=for-the-badge&label=Visitors&base=13)
 
