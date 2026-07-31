@@ -7,3 +7,5 @@
 
 ### 🔬 My contribution to Science (BOINC)
 ![06f66edaaa3bc7b007c2486b717d3f8b](https://boincstats.com/signature/-1/user/268699292036/project/sig.png)
+
+![BOINC Credits](https://img.shields.io/badge/dynamic/xml?color=blue&label=BOINC%20Credits&query=%2F%2Ftotal_credit&url=https%3A%2F%2FMilkyWay@home.com%2Fshow_user.php%3Fuserid%3D06f66edaaa3bc7b007c2486b717d3f8b%26format%3Dxml)
