@@ -1,5 +1,3 @@
-### 👋
-
 [![Paul-HenryP's GitHub stats](https://github-readme-stats.vercel.app/api?username=Paul-HenryP&show_icons=true&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-HenryP&layout=compact&show_icons=true&theme=shadow_red)
 
